@@ -1,0 +1,14 @@
+com\niit\bookhub\beans\NovelBook.class
+com\niit\bookhub\controller\BookController.class
+com\niit\bookhub\dao\NovelDAO.class
+com\niit\bookhub\beans\HistoricalBook.class
+com\niit\bookhub\dao\FictionDAO.class
+com\niit\bookhub\dao\EducationDAO.class
+com\niit\bookhub\beans\EducationBook.class
+com\niit\bookhub\dao\HistoricalDAO.class
+com\niit\bookhub\dao\BookDAO.class
+com\niit\bookhub\model\User.class
+com\niit\bookhub\beans\BiographyBook.class
+com\niit\bookhub\dao\BiographyDAO.class
+com\niit\bookhub\beans\FictionBook.class
+com\niit\bookhub\beans\Book.class
